@@ -16,6 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## how to run
+### 1. Run flutter app by
 ```javascript
 flutter run
+```
+### 2. You will be asked to choose option
+```javascript
+Choose your desired browser option
 ```
